@@ -1,7 +1,7 @@
 # sherlack
 --------------
 Sherlock Holmes, now in slack to solve all your mysteries! :sunglasses:
-![img](https://github.com/karan28598/sherlack/raw/master/sherlock.gif)
+![img](https://github.com/karan28598/sherlack/blob/master/sherlack.gif)
 
 
 
