@@ -19,7 +19,7 @@ Just enter `/sherlack [your question]` in a slack channel. The Question will be 
 2. Click on **Configure Integrations**.
 3. Scroll all the way down to **DIY Integrations & Customizations section**.
 4. Click on **Add** next to **Slash Commands**.
-   - Command: `/sherlack`
+   - Command: `sherlack`
    - URL: `https://sherlack.herokuapp.com/sherlack`
    - method: `POST`
    - For the **Autocomplete help text**, check to show the command in autocomplete list.
