@@ -1,0 +1,12 @@
+{
+  "name": "sherlack",
+  "description": "Q&A bot using Wolfram Alpha API",
+  "keyword": [
+    "slack",
+    "wolframalpha",
+    "python",
+    "web",
+    "sherlack"
+  ],
+  "repository": "https://github.com/karan28598/sherlack"
+}
